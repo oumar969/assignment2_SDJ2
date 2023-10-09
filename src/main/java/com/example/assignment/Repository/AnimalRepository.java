@@ -18,6 +18,8 @@ public class AnimalRepository {
         animals.add(new Animal(2, LocalDate.parse("2023-10-02"), "Farm B"));
         animals.add(new Animal(3, LocalDate.parse("2023-10-03"), "Farm A"));
         animals.add(new Animal(4, LocalDate.parse("2023-10-04"), "Farm C"));
+        animals.add(new Animal(5, LocalDate.parse("2023-10-05"), "Farm B"));
+        animals.add(new Animal(6, LocalDate.parse("2023-10-06"), "Farm A"));
     }
     public List<Animal> getAllAnimals() {
         return animals;
