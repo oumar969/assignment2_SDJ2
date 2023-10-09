@@ -1,6 +1,6 @@
 # assignmentSDJ2
 
-PART2
+PART2: 
 Implement a registration system for the animals as a RESTful web service. The service should store date, weight, registration number and origin (i.e. farm) of the animal. It should be possible to read the details of a specific animal, all animals arriving at a particular date, and all animals of a particular origin.
 The service doesn’t need a graphical user interface, but it must be tested
 
